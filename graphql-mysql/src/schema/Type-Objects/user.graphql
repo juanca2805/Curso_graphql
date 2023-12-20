@@ -1,0 +1,9 @@
+
+type User {
+
+    id: ID!
+    name: String!
+    instructor: Boolean!
+    twitter: String!
+    web: String!
+}
